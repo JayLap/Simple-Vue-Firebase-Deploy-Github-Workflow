@@ -1,4 +1,5 @@
 name: deploy_vue_to_firebase
+description: Git workflow to deploy a vue.js app to firebase
 
 on:
   push:
